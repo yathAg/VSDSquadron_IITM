@@ -1,7 +1,7 @@
 ## VSDSquadron MIT workshop
 
 ```
-git clone https://github.com/yathAg/VSDSquadron_MIT.git
+git clone https://github.com/yathAg/VSDSquadron_PIEMR.git
 ```
 
 
